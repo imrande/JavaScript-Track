@@ -1,0 +1,1 @@
+Go to directory & hit `npm init`
