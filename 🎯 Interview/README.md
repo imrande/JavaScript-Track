@@ -1,0 +1,4 @@
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) `common gotcha`
+- [The JavaScript Interview Workbook: 400 Coding exercises!](https://kauresss.gumroad.com/l/JieDN) — Kauress
+- [ganqqwerty/123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
